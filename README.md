@@ -16,3 +16,9 @@ This project demonstrates a complete end-to-end data pipeline, from raw data sou
 
 
 It was developed as a portfolio showcase to demonstrate best practices in Data Engineering, Analytics, and Business Intelligence using modern data warehousing concepts.
+
+---
+
+##Requirements
+
+### 🔨 Build the Data Warehouse (Engineering)
