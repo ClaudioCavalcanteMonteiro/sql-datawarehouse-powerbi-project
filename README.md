@@ -21,7 +21,7 @@ It was developed as a portfolio showcase to demonstrate best practices in Data E
 
 ## 📝 Requirements
 
-### 🔨 Build the Data Warehouse (Engineering)
+### Build the Data Warehouse (Engineering)
 
 ### 🎯 Goal
 Build a modern Data Warehouse using SQL Server to consolidate data from ERP and CRM systems.
