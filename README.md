@@ -4,9 +4,8 @@ Welcome to the **Modern Data Warehouse Solution with Power BI Integration** Repo
 
 This project demonstrates a complete end-to-end data pipeline, from raw data sources to dashboards and insights. It includes:
 
-🟢Understanding business requirements and analytical needs
-
-🟢ETL process development
+🟢Understanding business requirements and analytical needs<br>
+🟢ETL process development<br>
 
 🟢Data warehouse architecture design
 
