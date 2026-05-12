@@ -15,8 +15,12 @@ This project demonstrates a complete end-to-end data pipeline, from raw data sou
 🟢Data cleansing and transformation
 
 🟢Data loading and optimization
+
 🟢Dimensional data modeling
+
 🟢SQL Server and Power BI integration
+
 🟢Dashboard UX design and publication
+
 
 It was developed as a portfolio showcase to demonstrate best practices in Data Engineering, Analytics, and Business Intelligence using modern data warehousing concepts.
