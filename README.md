@@ -33,3 +33,26 @@ Build a modern Data Warehouse using SQL Server to consolidate data from ERP and 
 - **Integration**: Integrate and consolidate data sources into a unified data model optimized for analytical queries.
 - **Scope** : Historical/legacy data is out of scope. The solution focuses only on the most recent and relevant datasets.
 - **Documentation** : Provide clear, well-structured, and easy-to-understand documentation to support both business stakeholders and analytics teams
+
+---
+
+### 🔎 Analytcs and Dashboard (Data Analytics)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
