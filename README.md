@@ -19,6 +19,6 @@ It was developed as a portfolio showcase to demonstrate best practices in Data E
 
 ---
 
-## Requirements
+## 📝 Requirements
 
 ### 🔨 Build the Data Warehouse (Engineering)
