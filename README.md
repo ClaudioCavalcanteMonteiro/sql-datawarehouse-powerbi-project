@@ -27,3 +27,9 @@ It was developed as a portfolio showcase to demonstrate best practices in Data E
 Build a modern Data Warehouse using SQL Server to consolidate data from ERP and CRM systems.
 
 ### ✅ Assumptions
+
+** Sources ** : CSV Files provided by two systems (CRM and ERP).
+** Quality ** : Resolve data quality issues such as duplicates, null values, inconsistent formatting, and unnecessary white spaces.
+** Integration **: Integrate and consolidate data sources into a unified data model optimized for analytical queries.
+** Scope ** : Historical/legacy data is out of scope. The solution focuses only on the most recent and relevant datasets.
+** Documentation ** : Provide clear, well-structured, and easy-to-understand documentation to support both business stakeholders and analytics teams
