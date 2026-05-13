@@ -41,9 +41,10 @@ Build a modern Data Warehouse using SQL Server to consolidate data from ERP and 
 - **Scope** : Historical/legacy data is out of scope. The solution focuses only on the most recent and relevant datasets.
 - **Documentation** : Provide clear, well-structured, and easy-to-understand documentation to support both business stakeholders and analytics teams
 
-### 🏗️ Data Architecture
+### 👷🏼 Data Architecture
 
-<img width="1113" height="620" alt="Data Architecture Complete" src="https://github.com/user-attachments/assets/20d9e110-f12f-4cf9-a7b7-da3f5d6655ff" />
+<img width="1113" height="620" alt="Data Architecture Complete" src="https://github.com/user-attachments/assets/5e036950-e482-4701-8bbf-e38418958213" />
+
 
 
 ---
