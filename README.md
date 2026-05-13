@@ -27,6 +27,8 @@ Stakeholders want  insights about:
 - ** Customer Behavior **
 - ** Sales insights **
 
+---
+
 ### Build the Data Warehouse (Engineering)
 
 
@@ -46,7 +48,6 @@ Build a modern Data Warehouse using SQL Server to consolidate data from ERP and 
 <img width="1113" height="620" alt="Data Architecture Complete" src="https://github.com/user-attachments/assets/5e036950-e482-4701-8bbf-e38418958213" />
 
 
-
 ---
 
 ### 🔎 Analytcs and Dashboard (Data Analytics)
@@ -54,10 +55,13 @@ Build a modern Data Warehouse using SQL Server to consolidate data from ERP and 
 ### 🎯 Goal
 Develop SQL-based analytics to provide data for Power BI dashboards and generate insights aligned with business requirements.
 
+Empower stakeholders with key business metrics and insights, enabling data-driven strategic decision-making.
 
+---
 
+# 🗄️ Repository Structure
 
-
+'''text
 
 
 
