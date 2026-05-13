@@ -23,7 +23,7 @@ It was developed as a portfolio showcase to demonstrate best practices in Data E
 
 Stakeholders want  insights about:
 
-- ** Data to connect into Power BI **
+- ** Product Performance **
 - ** Customer Behavior **
 - ** Sales insights **
 
