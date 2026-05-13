@@ -21,7 +21,14 @@ It was developed as a portfolio showcase to demonstrate best practices in Data E
 
 ## 📝 Requirements
 
+Stakeholders want  insights about:
+
+- ** Data to connect into Power BI **
+- ** Customer Behavior **
+- ** Sales insights **
+
 ### Build the Data Warehouse (Engineering)
+
 
 ### 🎯 Goal
 Build a modern Data Warehouse using SQL Server to consolidate data from ERP and CRM systems.
@@ -34,9 +41,19 @@ Build a modern Data Warehouse using SQL Server to consolidate data from ERP and 
 - **Scope** : Historical/legacy data is out of scope. The solution focuses only on the most recent and relevant datasets.
 - **Documentation** : Provide clear, well-structured, and easy-to-understand documentation to support both business stakeholders and analytics teams
 
+### 🏗️ Data Architecture
+
+<img width="1113" height="620" alt="Data Architecture Complete" src="https://github.com/user-attachments/assets/20d9e110-f12f-4cf9-a7b7-da3f5d6655ff" />
+
+
 ---
 
 ### 🔎 Analytcs and Dashboard (Data Analytics)
+
+### 🎯 Goal
+Develop SQL-based analytics to provide data for Power BI dashboards and generate insights aligned with business requirements.
+
+
 
 
 
